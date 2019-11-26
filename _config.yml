@@ -3,7 +3,7 @@ title: "Aniruddha Raghavan"
 description: "My personal website."
 
 # Build settings
-markdown: kramdown
+markdown: markdown
 sass:
   sass_dir: _sass
   style: compressed
